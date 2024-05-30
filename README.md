@@ -26,4 +26,4 @@ Enabled stakeholders to make informed decisions based on data-driven insights.
 Resume Summary:
 "Developed an interactive Power BI dashboard for Superstore sales analysis. Focused on quantity, sales, and profit segmented by subcategory, region, category, timeline, and customer segment. Utilized Power BI's advanced features for data integration, visualization, and interactive analysis to support strategic decision-making."
 
-Link: https://drive.google.com/file/d/16n9GJkoZ6VVQChHSpaLMR9frUckPm5BT/view?usp=drive_link
+Link: https://drive.google.com/file/d/16n9GJkoZ6VVQChHSpaLMR9frUckPm5BT/view?usp=sharing
